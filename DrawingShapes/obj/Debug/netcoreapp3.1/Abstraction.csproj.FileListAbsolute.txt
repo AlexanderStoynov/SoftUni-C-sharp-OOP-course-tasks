@@ -1,0 +1,13 @@
+D:\VS Projects\Back end\Shapes\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Back end\Shapes\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+D:\VS Projects\Back end\Shapes\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+D:\VS Projects\Back end\Shapes\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.CoreCompileInputs.cache
+D:\VS Projects\Back end\Shapes\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+D:\VS Projects\Back end\Shapes\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+D:\VS Projects\Back end\Shapes\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+D:\VS Projects\Back end\Shapes\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+D:\VS Projects\Back end\Shapes\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+D:\VS Projects\Back end\Shapes\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+D:\VS Projects\Back end\Shapes\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+D:\VS Projects\Back end\Shapes\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb
+D:\VS Projects\Back end\Shapes\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.genruntimeconfig.cache
